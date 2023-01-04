@@ -1,0 +1,23 @@
+# ninja log v5
+12	367	6945089951240276	CMakeFiles/25_4_2_Computer_Sim.dir/my_ram.cpp.obj	56525f43075addda
+4	449	6945095903228477	CMakeFiles/25_4_2_Computer_Sim.dir/main.cpp.obj	4edbd81480d4613d
+20	591	6945089953477969	CMakeFiles/25_4_2_Computer_Sim.dir/my_kbd.cpp.obj	d4088f3ce625a790
+16	592	6945089953497945	CMakeFiles/25_4_2_Computer_Sim.dir/my_gpu.cpp.obj	318c30cdab8046c8
+449	584	6945095904525922	25_4_2_Computer_Sim.exe	2da4f4e890fa3567
+3	611	6945089953697739	CMakeFiles/25_4_2_Computer_Sim.dir/my_cpu.cpp.obj	9805fe6a0e0914d3
+8	687	6945089954452604	CMakeFiles/25_4_2_Computer_Sim.dir/my_disk.cpp.obj	fba1da313429a929
+1	195	6945121407151778	build.ninja	bc913742efd01f58
+3	473	6945121412646105	CMakeFiles/25_4_2_Computer_Sim.dir/main.cpp.obj	4edbd81480d4613d
+477	625	6945121414114591	25_4_2_Computer_Sim.exe	2da4f4e890fa3567
+20	109	6945129638517838	CMakeFiles/25_4_2_Computer_Sim.dir/my_ram.cpp.obj	56525f43075addda
+3	574	6945129643153071	CMakeFiles/25_4_2_Computer_Sim.dir/my_cpu.cpp.obj	9805fe6a0e0914d3
+12	575	6945129643153071	CMakeFiles/25_4_2_Computer_Sim.dir/my_kbd.cpp.obj	d4088f3ce625a790
+16	602	6945129643442778	CMakeFiles/25_4_2_Computer_Sim.dir/my_gpu.cpp.obj	318c30cdab8046c8
+8	630	6945129643722471	CMakeFiles/25_4_2_Computer_Sim.dir/my_disk.cpp.obj	fba1da313429a929
+22	126	6945130220186245	CMakeFiles/25_4_2_Computer_Sim.dir/my_ram.cpp.obj	56525f43075addda
+3	679	6945130225730530	CMakeFiles/25_4_2_Computer_Sim.dir/main.cpp.obj	4edbd81480d4613d
+8	691	6945130225840417	CMakeFiles/25_4_2_Computer_Sim.dir/my_cpu.cpp.obj	9805fe6a0e0914d3
+27	692	6945130225840417	CMakeFiles/25_4_2_Computer_Sim.dir/my_kbd.cpp.obj	d4088f3ce625a790
+16	692	6945130225840417	CMakeFiles/25_4_2_Computer_Sim.dir/my_gpu.cpp.obj	318c30cdab8046c8
+12	741	6945130226369866	CMakeFiles/25_4_2_Computer_Sim.dir/my_disk.cpp.obj	fba1da313429a929
+741	874	6945130227621562	25_4_2_Computer_Sim.exe	2da4f4e890fa3567
